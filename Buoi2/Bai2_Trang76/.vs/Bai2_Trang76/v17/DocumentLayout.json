@@ -3,6 +3,24 @@
   "WorkspaceRootPath": "D:\\Workspace\\Csharp\\OOP\\Buoi2\\Bai2_Trang76\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{91567F2B-650F-4CBD-A8B9-C28C496C2495}|..\\Bai5_Trang77\\Bai5_Trang77.csproj|d:\\workspace\\csharp\\oop\\buoi2\\bai5_trang77\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91567F2B-650F-4CBD-A8B9-C28C496C2495}|..\\Bai5_Trang77\\Bai5_Trang77.csproj|d:\\workspace\\csharp\\oop\\buoi2\\bai5_trang77\\qlsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91567F2B-650F-4CBD-A8B9-C28C496C2495}|..\\Bai5_Trang77\\Bai5_Trang77.csproj|d:\\workspace\\csharp\\oop\\buoi2\\bai5_trang77\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2AFEE4-1DA8-4DA5-8468-227AB13718FA}|..\\Bai4_Trang77\\Bai4_Trang77.csproj|d:\\workspace\\csharp\\oop\\buoi2\\bai4_trang77\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2AFEE4-1DA8-4DA5-8468-227AB13718FA}|..\\Bai4_Trang77\\Bai4_Trang77.csproj|d:\\workspace\\csharp\\oop\\buoi2\\bai4_trang77\\qlnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2AFEE4-1DA8-4DA5-8468-227AB13718FA}|..\\Bai4_Trang77\\Bai4_Trang77.csproj|d:\\workspace\\csharp\\oop\\buoi2\\bai4_trang77\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AA4073D8-37D4-40D6-9D5B-F6657DE576AB}|..\\Bai8_Trang79\\Bai8_Trang79.csproj|d:\\workspace\\csharp\\oop\\buoi2\\bai8_trang79\\duan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -31,7 +49,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,7 +61,85 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QLSP.cs",
+              "DocumentMoniker": "D:\\Workspace\\Csharp\\OOP\\Buoi2\\Bai5_Trang77\\QLSP.cs",
+              "RelativeDocumentMoniker": "..\\Bai5_Trang77\\QLSP.cs",
+              "ToolTip": "D:\\Workspace\\Csharp\\OOP\\Buoi2\\Bai5_Trang77\\QLSP.cs",
+              "RelativeToolTip": "..\\Bai5_Trang77\\QLSP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T12:20:13.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "D:\\Workspace\\Csharp\\OOP\\Buoi2\\Bai5_Trang77\\SanPham.cs",
+              "RelativeDocumentMoniker": "..\\Bai5_Trang77\\SanPham.cs",
+              "ToolTip": "D:\\Workspace\\Csharp\\OOP\\Buoi2\\Bai5_Trang77\\SanPham.cs",
+              "RelativeToolTip": "..\\Bai5_Trang77\\SanPham.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAiwEkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T12:19:52.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workspace\\Csharp\\OOP\\Buoi2\\Bai5_Trang77\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Bai5_Trang77\\Program.cs",
+              "ToolTip": "D:\\Workspace\\Csharp\\OOP\\Buoi2\\Bai5_Trang77\\Program.cs",
+              "RelativeToolTip": "..\\Bai5_Trang77\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T12:19:31.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QLNV.cs",
+              "DocumentMoniker": "D:\\Workspace\\Csharp\\OOP\\Buoi2\\Bai4_Trang77\\QLNV.cs",
+              "RelativeDocumentMoniker": "..\\Bai4_Trang77\\QLNV.cs",
+              "ToolTip": "D:\\Workspace\\Csharp\\OOP\\Buoi2\\Bai4_Trang77\\QLNV.cs",
+              "RelativeToolTip": "..\\Bai4_Trang77\\QLNV.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T12:18:25.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "D:\\Workspace\\Csharp\\OOP\\Buoi2\\Bai4_Trang77\\NhanVien.cs",
+              "RelativeDocumentMoniker": "..\\Bai4_Trang77\\NhanVien.cs",
+              "ToolTip": "D:\\Workspace\\Csharp\\OOP\\Buoi2\\Bai4_Trang77\\NhanVien.cs",
+              "RelativeToolTip": "..\\Bai4_Trang77\\NhanVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T12:17:59.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workspace\\Csharp\\OOP\\Buoi2\\Bai4_Trang77\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Bai4_Trang77\\Program.cs",
+              "ToolTip": "D:\\Workspace\\Csharp\\OOP\\Buoi2\\Bai4_Trang77\\Program.cs",
+              "RelativeToolTip": "..\\Bai4_Trang77\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T12:11:04.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "DuAn.cs",
               "DocumentMoniker": "D:\\Workspace\\Csharp\\OOP\\Buoi2\\Bai8_Trang79\\DuAn.cs",
               "RelativeDocumentMoniker": "..\\Bai8_Trang79\\DuAn.cs",
@@ -56,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Workspace\\Csharp\\OOP\\Buoi2\\Bai8_Trang79\\Program.cs",
               "RelativeDocumentMoniker": "..\\Bai8_Trang79\\Program.cs",
@@ -64,12 +160,11 @@
               "RelativeToolTip": "..\\Bai8_Trang79\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T11:28:00.454Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T11:28:00.454Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "SinhVien.cs",
               "DocumentMoniker": "D:\\Workspace\\Csharp\\OOP\\Buoi2\\Bai3_Trang76\\SinhVien.cs",
               "RelativeDocumentMoniker": "..\\Bai3_Trang76\\SinhVien.cs",
@@ -77,12 +172,11 @@
               "RelativeToolTip": "..\\Bai3_Trang76\\SinhVien.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T11:03:31.096Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T11:03:31.096Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "QLSV.cs",
               "DocumentMoniker": "D:\\Workspace\\Csharp\\OOP\\Buoi2\\Bai3_Trang76\\QLSV.cs",
               "RelativeDocumentMoniker": "..\\Bai3_Trang76\\QLSV.cs",
@@ -90,12 +184,11 @@
               "RelativeToolTip": "..\\Bai3_Trang76\\QLSV.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAYwAoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T11:03:29.484Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T11:03:29.484Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "QLHP.cs",
               "DocumentMoniker": "D:\\Workspace\\Csharp\\OOP\\Buoi2\\Bai7_Trang79\\QLHP.cs",
               "RelativeDocumentMoniker": "..\\Bai7_Trang79\\QLHP.cs",
@@ -103,12 +196,11 @@
               "RelativeToolTip": "..\\Bai7_Trang79\\QLHP.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T11:03:19.184Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T11:03:19.184Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "HocPhan.cs",
               "DocumentMoniker": "D:\\Workspace\\Csharp\\OOP\\Buoi2\\Bai7_Trang79\\HocPhan.cs",
               "RelativeDocumentMoniker": "..\\Bai7_Trang79\\HocPhan.cs",
@@ -116,12 +208,11 @@
               "RelativeToolTip": "..\\Bai7_Trang79\\HocPhan.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T11:03:08.664Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T11:03:08.664Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Workspace\\Csharp\\OOP\\Buoi2\\Bai7_Trang79\\Program.cs",
               "RelativeDocumentMoniker": "..\\Bai7_Trang79\\Program.cs",
@@ -129,8 +220,7 @@
               "RelativeToolTip": "..\\Bai7_Trang79\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T11:02:39.825Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T11:02:39.825Z"
             }
           ]
         }
