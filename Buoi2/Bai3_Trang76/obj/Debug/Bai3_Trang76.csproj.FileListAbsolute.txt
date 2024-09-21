@@ -1,0 +1,7 @@
+D:\Workspace\Csharp\OOP\Buoi2\Bai3_Trang76\bin\Debug\Bai3_Trang76.exe.config
+D:\Workspace\Csharp\OOP\Buoi2\Bai3_Trang76\bin\Debug\Bai3_Trang76.exe
+D:\Workspace\Csharp\OOP\Buoi2\Bai3_Trang76\bin\Debug\Bai3_Trang76.pdb
+D:\Workspace\Csharp\OOP\Buoi2\Bai3_Trang76\obj\Debug\Bai3_Trang76.csproj.AssemblyReference.cache
+D:\Workspace\Csharp\OOP\Buoi2\Bai3_Trang76\obj\Debug\Bai3_Trang76.csproj.CoreCompileInputs.cache
+D:\Workspace\Csharp\OOP\Buoi2\Bai3_Trang76\obj\Debug\Bai3_Trang76.exe
+D:\Workspace\Csharp\OOP\Buoi2\Bai3_Trang76\obj\Debug\Bai3_Trang76.pdb

@@ -1,0 +1,7 @@
+D:\Workspace\Csharp\OOP\Buoi2\QL_MatHang\bin\Debug\QL_MatHang.exe.config
+D:\Workspace\Csharp\OOP\Buoi2\QL_MatHang\bin\Debug\QL_MatHang.exe
+D:\Workspace\Csharp\OOP\Buoi2\QL_MatHang\bin\Debug\QL_MatHang.pdb
+D:\Workspace\Csharp\OOP\Buoi2\QL_MatHang\obj\Debug\QL_MatHang.csproj.AssemblyReference.cache
+D:\Workspace\Csharp\OOP\Buoi2\QL_MatHang\obj\Debug\QL_MatHang.csproj.CoreCompileInputs.cache
+D:\Workspace\Csharp\OOP\Buoi2\QL_MatHang\obj\Debug\QL_MatHang.exe
+D:\Workspace\Csharp\OOP\Buoi2\QL_MatHang\obj\Debug\QL_MatHang.pdb
